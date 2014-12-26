@@ -3,7 +3,7 @@ cask :v1 => 'kawasemi' do
   sha256 :no_check
 
   url 'http://store.monokakido.jp/download/Kawasemi2/Kawasemi2.dmg'
-  name 'kawasemi'
+  name 'かわせみ2'
   homepage 'http://www.monokakido.jp/mac/kawasemi2.html'
   license :commercial
 
